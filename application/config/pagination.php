@@ -1,6 +1,6 @@
 <?php 
 
-$config['base_url'] = 'http://localhost/film-173040113/peoples/index';
+$config['base_url'] = 'http://localhost/film/peoples/index';
 $config['num_links'] = 5;
 
 $config['full_tag_open'] ='<nav><ul class="pagination justify-content-center">';

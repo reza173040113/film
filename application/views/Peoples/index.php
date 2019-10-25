@@ -49,9 +49,9 @@
 							<td><?= $p['name']; ?></td>
 							<td><?= $p['email']; ?></td>
 							<td>
-								<a href="" class="badge badge-warning">detail</a>
-								<a href="" class="badge badge-success">edit</a>
-								<a href="" class="badge badge-danger">delete</a>
+								<a href="" class="btn btn-warning">detail</a>
+								<a href="" class="btn btn-success">edit</a>
+								<a href="" class="btn btn-danger">delete</a>
 							</td>
 						</tr>
 					<?php endforeach ?>
