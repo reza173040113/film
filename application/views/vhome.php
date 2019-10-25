@@ -50,6 +50,7 @@
 			<h1><?= $nama ?> MOVIE </h1>
 			<div class="admin">
 				<a href="<?=site_url('Film/tampil') ?>">Admin</a>
+				<a href="<?= base_url(); ?>peoples">Peoples</a>
 			</div>
 		</center>
 	</body>
